@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mazutt.github.io/nAm/sitemap.nAm.gz
